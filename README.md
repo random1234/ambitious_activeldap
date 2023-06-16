@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+OBB: Fix plot_images (#7592)
