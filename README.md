@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update format.yml to pull_request_target (#7460)
