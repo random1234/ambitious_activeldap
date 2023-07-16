@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
