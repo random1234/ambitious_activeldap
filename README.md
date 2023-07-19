@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add estimate_speed(region_color) parameter (#8285)
