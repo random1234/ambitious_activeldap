@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
