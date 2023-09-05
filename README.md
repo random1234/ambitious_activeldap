@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+fix yolo classify model loading error (#9196)
