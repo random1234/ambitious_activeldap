@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
