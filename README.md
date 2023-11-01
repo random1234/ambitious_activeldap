@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
