@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
