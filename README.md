@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Improve Docs arguments tables (#8415)
