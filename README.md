@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix bbox2segment converter (#7814)
