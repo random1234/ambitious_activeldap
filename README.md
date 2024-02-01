@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
