@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
