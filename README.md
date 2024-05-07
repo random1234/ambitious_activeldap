@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
