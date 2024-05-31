@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add missing single-line docstrings (#8362)
