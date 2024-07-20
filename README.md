@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
