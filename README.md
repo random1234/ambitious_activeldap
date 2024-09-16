@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
