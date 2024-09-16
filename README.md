@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
