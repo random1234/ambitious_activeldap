@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Move Explorer tests to scheduled CI (#8305)
