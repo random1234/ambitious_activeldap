@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Allow Annotator PIL.Image inputs (#8397)
